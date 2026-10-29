@@ -1,4 +1,3 @@
-import { generateSimilarPhotos } from './data.js';
+import './miniature-rendering.js';
 
-generateSimilarPhotos();
 
